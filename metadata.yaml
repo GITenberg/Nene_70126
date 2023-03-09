@@ -1,0 +1,46 @@
+_repo: Nene_70126
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Chérau, Gaston
+    alias: Cherau, Gaston
+    birthdate: 1872
+    deathdate: 1937
+    gutenberg_agent_id: '55612'
+    url: http://www.gutenberg.org/2009/agents/55612
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gaston_Ch%C3%A9rau
+    - https://fr.wikipedia.org/wiki/Gaston_Ch%C3%A9rau
+creator:
+  author:
+    agent_name: Pérochon, Ernest
+    alias: Perochon, Ernest
+    birthdate: 1885
+    deathdate: 1942
+    gutenberg_agent_id: '55611'
+    url: http://www.gutenberg.org/2009/agents/55611
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ernest_P%C3%A9rochon
+    - https://fr.wikipedia.org/wiki/Ernest_P%C3%A9rochon
+description: Prix Goncourt 1920.
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70126'
+  lccn: '40000105'
+language: fr
+pgterms:marc904: https://archive.org/details/nneprefacedega00pruoft
+pgterms:marc905: 20201121085309prochon
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aFrance :$bPlon, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Nêne
+url: http://www.gutenberg.org/ebooks/70126
