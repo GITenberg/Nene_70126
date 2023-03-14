@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Gaston_Ch%C3%A9rau
     - https://fr.wikipedia.org/wiki/Gaston_Ch%C3%A9rau
+covers:
+- cover_type: archival
+  image_path: 70126-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérochon, Ernest
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ernest_P%C3%A9rochon
     - https://fr.wikipedia.org/wiki/Ernest_P%C3%A9rochon
 description: Prix Goncourt 1920.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70126#Nene
 gutenberg_issued: '2023-02-24'
 identifiers:
   gutenberg: '70126'
